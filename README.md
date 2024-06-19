@@ -25,23 +25,25 @@
 ## 部署
 
 ### 安装依赖
-
-```bash
-# 若没有 pnpm
+requires at least Node.js v18.12
+```shell
+nvm install 20
+```
+若没有 pnpm
+```shell
 npm install pnpm -g
-
-# 安装依赖
+```
+安装依赖
+```shell
 pnpm install
 ```
 
 ### 开发
-
 ```bash
 pnpm dev
 ```
 
 ### 打包
-
 ```bash
 pnpm build
 ```
