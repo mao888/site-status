@@ -2,7 +2,7 @@
 
 一个基于 UptimeRobot API 的在线状态面板
 
-![IMSYY-站点监测.png](https://github.com/mao888/site-status/assets/59285170/71bc0bb3-aa05-48e9-b6d3-1a9e75654c62)
+![IMSYY-站点监测.png](https://mao888.github.io/picx-images-hosting/project/site-status/image.5q7ikn7ad6.webp)
 
 ## 特色
 
